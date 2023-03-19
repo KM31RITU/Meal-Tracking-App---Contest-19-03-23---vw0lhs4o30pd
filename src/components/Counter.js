@@ -7,6 +7,6 @@ const Counter = () => {
             <h3>Meals Remaining: remaingMeals</h3>
         </div>
     )
-}
+};
 
 export default Counter;
